@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ### *Estudante de ciência da computação, Python Dev e Analista de Dados Entrée/Júnior com sonho em me especializar em IA/deep learning.*
 
 <div>
-    <img height="200em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MichaelNich&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=MichaelNich&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF">
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MichaelNich&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MichaelNich&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF">
 </div>
 
 ## *TECNOLOGIAS*
